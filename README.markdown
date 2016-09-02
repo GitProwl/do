@@ -1,8 +1,8 @@
-DataObjects README
+DataObjects
 ==================
 
 DataObjects.rb is an attempt to rewrite existing Ruby database drivers to
-conform to one, standard interface.
+conform to one, standard interface. An example of this is the data stored in various venues for Prowl.
 
 At present the following drivers are available:
 
